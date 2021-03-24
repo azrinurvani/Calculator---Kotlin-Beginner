@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Beginner - Calculator</string>
+    <string name="hint_angka_awal">Masukkan angka awal</string>
+    <string name="hint_angka_akhir">Masukkan angka akhir</string>
+</resources>
